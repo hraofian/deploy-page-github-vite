@@ -1,5 +1,6 @@
 {
   "name": "deploy-page-github-vite",
+  "homepage": "https://hraofian.github.io/deploy-page-github-vite",
   "private": true,
   "version": "0.0.0",
   "type": "module",
